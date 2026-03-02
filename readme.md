@@ -4,7 +4,7 @@
 <img align="center" alt="RUNTIME-LABS" width="3072px"  src="./assets/images/RTLpng.png"/>
 
 ----
-As a bilingual computer scientist with expertise in both English and French, I have been fascinated by computers since i built my first computer at the age of 8 years old.
+As a bilingual computer scientist with expertise in both English and French, I have been fascinated by technology since i built my first computer at the age of 8 years old.
 
 - [Website](https://marcus-tipler.me/)
 - [LinkedIn](https://cv.runtime-labs.org/)
