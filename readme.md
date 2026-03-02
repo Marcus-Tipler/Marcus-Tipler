@@ -1,7 +1,7 @@
 # Marcus F TIPLER
 ----
 
-<img align="center" alt="RUNTIME-LABS" width="3072px"  src="./RTLpng.png"/>
+<img align="center" alt="RUNTIME-LABS" width="3072px"  src="./assets/images/RTLpng.png"/>
 
 ----
 As a bilingual computer scientist with expertise in both English and French, I have been fascinated by computers since i built my first computer at the age of 8 years old.
